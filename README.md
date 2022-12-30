@@ -1,12 +1,12 @@
 # Un petit dernier pour la route
 
-## Un grand enfant
+## [Un grand enfant](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/1.%20Un%20grand%20enfant.pdf)
 
-## La tournée du patron
+## [La tournée du patron](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/2.%20La%20tourn%C3%A9e%20du%20patron.pdf)
 
-## Une question de doigté
+## [Une question de doigté](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/3.%20Une%20question%20de%20doigt%C3%A9.pdf)
 
-## Fin de vidange heureuse
+## [Fin de vidange heureuse](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/4.%20Fin%20de%20vidange%20heureuse.pdf)
 
 ## Maudists soient-ils
 
