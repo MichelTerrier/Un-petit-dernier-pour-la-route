@@ -6,7 +6,7 @@
 
 ## [3. Une question de doigté](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/03.%20Une%20question%20de%20doigt%C3%A9.pdf)
 
-## [4. Fin de vidange heureuse](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/4.%20Fin%20de%20vidange%20heureuse.pdf)
+## [4. Fin de vidange heureuse](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/04.%20Fin%20de%20vidange%20heureuse.pdf)
 
 ## [5. Maudits soient-ils](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/5.%20Maudits%20soient-ils%20!.pdf)
 
