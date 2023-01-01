@@ -46,7 +46,7 @@
 
 ## [23. Interdiction d'interdire](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/23.%20Interdiction%20d%E2%80%99interdire.pdf)
 
-## [23. Le principe du parapluie](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/23.%20Le%20principe%20du%20parapluie.pdf)
+## [24. Le principe du parapluie](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/24.%20Le%20principe%20du%20parapluie.pdf)
 
 ## [24. Discontinuum spatio-temporelle](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/24.%20Discontinuum%20spatio-temporelle.pdf)
 
