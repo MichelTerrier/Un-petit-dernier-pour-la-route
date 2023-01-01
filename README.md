@@ -42,7 +42,7 @@
 
 ## [21. Avec la plus sincère mauvaise foi](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/21.%20Avec%20la%20plus%20sinc%C3%A8re%20mauvaise%20foi.pdf)
 
-## [21. Vie de chien](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/21.%20Vie%20de%20chien.pdf)
+## [22. Vie de chien](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/22.%20Vie%20de%20chien.pdf)
 
 ## [22. Interdiction d'interdire](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/22.%20Interdiction%20d%E2%80%99interdire.pdf)
 
