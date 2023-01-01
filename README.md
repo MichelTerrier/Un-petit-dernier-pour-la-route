@@ -4,7 +4,7 @@
 
 ## [2. La tournée du patron](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/02.%20La%20tourn%C3%A9e%20du%20patron.pdf)
 
-## [3. Une question de doigté](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/3.%20Une%20question%20de%20doigt%C3%A9.pdf)
+## [3. Une question de doigté](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/03.%20Une%20question%20de%20doigt%C3%A9.pdf)
 
 ## [4. Fin de vidange heureuse](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/4.%20Fin%20de%20vidange%20heureuse.pdf)
 
