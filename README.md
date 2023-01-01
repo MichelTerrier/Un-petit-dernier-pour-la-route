@@ -18,7 +18,7 @@
 
 ## [9. Caisson de décompression](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/09.%20Caisson%20de%20d%C3%A9compression.pdf)
 
-## [9. Debout sur le parapet](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/9.%20Debout%20sur%20le%20parapet.pdf)
+## [10. Debout sur le parapet](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/10.%20Debout%20sur%20le%20parapet.pdf)
 
 ## [10. Bionique ta mère](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/10.%20Bionique%20ta%20m%C3%A8re.pdf)
 
