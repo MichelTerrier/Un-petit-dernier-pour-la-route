@@ -14,7 +14,7 @@
 
 ## [7. Morte saison](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/07.%20Morte-saison.pdf)
 
-## [7. Rencontre du troisième type](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/7.%20Rencontre%20du%20troisi%C3%A8me%20type.pdf)
+## [8. Rencontre du troisième type](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/08.%20Rencontre%20du%20troisi%C3%A8me%20type.pdf)
 
 ## [8. Caisson de décompression](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/8.%20Caisson%20de%20d%C3%A9compression.pdf)
 
