@@ -1,8 +1,8 @@
 # Un petit dernier pour la route
 
-### [1. Un grand enfant](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/01.%20Un%20grand%20enfant.pdf)
+## [1. Un grand enfant](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/01.%20Un%20grand%20enfant.pdf)
 
-### [2. La tournée du patron](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/02.%20La%20tourn%C3%A9e%20du%20patron.pdf)
+## [2. La tournée du patron](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/02.%20La%20tourn%C3%A9e%20du%20patron.pdf)
 
 ## [3. Une question de doigté](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/03.%20Une%20question%20de%20doigt%C3%A9.pdf)
 
