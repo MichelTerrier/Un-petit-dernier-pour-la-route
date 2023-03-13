@@ -1,22 +1,22 @@
 # Un petit dernier pour la route
 
-## [1. Un grand enfant](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/01.%20Un%20grand%20enfant.pdf)
+## [01. Un grand enfant](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/01.%20Un%20grand%20enfant.pdf)
 
-## [2. La tournée du patron](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/02.%20La%20tourn%C3%A9e%20du%20patron.pdf)
+## [02. La tournée du patron](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/02.%20La%20tourn%C3%A9e%20du%20patron.pdf)
 
-## [3. Une question de doigté](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/03.%20Une%20question%20de%20doigt%C3%A9.pdf)
+## [03. Une question de doigté](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/03.%20Une%20question%20de%20doigt%C3%A9.pdf)
 
-## [4. Fin de vidange heureuse](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/04.%20Fin%20de%20vidange%20heureuse.pdf)
+## [04. Fin de vidange heureuse](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/04.%20Fin%20de%20vidange%20heureuse.pdf)
 
-## [5. Maudits soient-ils](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/05.%20Maudits%20soient-ils%20!.pdf)
+## [05. Maudits soient-ils](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/05.%20Maudits%20soient-ils%20!.pdf)
 
-## [6. Un siphon, phon, phon...](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/06.%20Un%20siphon%2C%20phon%2C%20phon%E2%80%A6.pdf)
+## [06. Un siphon, phon, phon...](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/06.%20Un%20siphon%2C%20phon%2C%20phon%E2%80%A6.pdf)
 
-## [7. Morte saison](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/07.%20Morte-saison.pdf)
+## [07. Morte saison](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/07.%20Morte-saison.pdf)
 
-## [8. Rencontre du troisième type](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/08.%20Rencontre%20du%20troisi%C3%A8me%20type.pdf)
+## [08. Rencontre du troisième type](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/08.%20Rencontre%20du%20troisi%C3%A8me%20type.pdf)
 
-## [9. Caisson de décompression](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/09.%20Caisson%20de%20d%C3%A9compression.pdf)
+## [09. Caisson de décompression](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/09.%20Caisson%20de%20d%C3%A9compression.pdf)
 
 ## [10. Debout sur le parapet](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/10.%20Debout%20sur%20le%20parapet.pdf)
 
