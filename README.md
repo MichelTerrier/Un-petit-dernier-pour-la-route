@@ -12,7 +12,7 @@
 
 ## [06. Un siphon, phon, phon...](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/06.%20Un%20siphon%2C%20phon%2C%20phon.pdf)
 
-## [07. Morte saison](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/07.%20Morte-saison.pdf)
+## [07. Morte saison](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/07.%20Morte%20saison.pdf)
 
 ## [08. Rencontre du troisième type](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/08.%20Rencontre%20du%20troisi%C3%A8me%20type.pdf)
 
