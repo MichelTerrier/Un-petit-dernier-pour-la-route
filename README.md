@@ -8,7 +8,7 @@
 
 ## [04. Fin de vidange heureuse](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/04.%20Fin%20de%20vidange%20heureuse.pdf)
 
-## [05. Maudits soient-ils](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/05.%20Maudits%20soient-ils%20!.pdf)
+## [05. Maudits soient-ils](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/05.%20Maudits%20soient-ils.pdf)
 
 ## [06. Un siphon, phon, phon...](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/06.%20Un%20siphon%2C%20phon%2C%20phon%E2%80%A6.pdf)
 
