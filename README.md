@@ -10,7 +10,7 @@
 
 ## [05. Maudits soient-ils](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/05.%20Maudits%20soient-ils.pdf)
 
-## [06. Un siphon, phon, phon...](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/06.%20Un%20siphon%2C%20phon%2C%20phon%E2%80%A6.pdf)
+## [06. Un siphon, phon, phon...](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/06.%20Un%20siphon%2C%20phon%2C%20phon.pdf)
 
 ## [07. Morte saison](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/07.%20Morte-saison.pdf)
 
