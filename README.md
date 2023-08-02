@@ -48,7 +48,7 @@
 
 ## [24. Le principe du parapluie](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/24.%20Le%20principe%20du%20parapluie.pdf)
 
-## [25. Discontinuum spatio-temporelle](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/25.%20Discontinuum%20spatio-temporelle.pdf)
+## [25. Discontinuum spatio-temporelle](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/25.%20Discontinuum%20spatio-temporel.pdf)
 
 ## [26. C'est grave docteur ?](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/26.%20C%E2%80%99est%20grave%20Docteur.pdf)
 
