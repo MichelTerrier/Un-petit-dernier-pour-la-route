@@ -50,6 +50,6 @@
 
 ## [25. Discontinuum spatio-temporelle](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/25.%20Discontinuum%20spatio-temporel.pdf)
 
-## [26. C'est grave docteur ?](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/26.%20C%E2%80%99est%20grave%20Docteur.pdf)
+## [26. C'est grave docteur ?](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/26.%20c'est%20grave%20docteur.pdf)
 
 ## [27. Mauvaise étoile](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/27.%20Mauvaise%20%C3%A9toile.pdf)
