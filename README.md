@@ -44,7 +44,7 @@
 
 ## [22. Vie de chien](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/22.%20Vie%20de%20chien.pdf)
 
-## [23. Interdiction d'interdire](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/23.%20Interdiction%20d%E2%80%99interdire.pdf)
+## [23. Interdiction d'interdire](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/23.%20Interdiction%20interdite.pdf)
 
 ## [24. Le principe du parapluie](https://github.com/MichelTerrier/Un-petit-dernier-pour-la-route/blob/main/24.%20Le%20principe%20du%20parapluie.pdf)
 
